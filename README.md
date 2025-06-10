@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hola👋!
+Me llamo Edison Avila soy Ingeniero y Desarrollador con experiencia en tecnologías web, marketing digital y servicio al cliente. Conocimiento en web-standards, maquetación y codificación de entregables y contenidos Web, integrados con herramientas de marketing automatizadas para la creación de campañas de marketing digital.
+
+Excelentes habilidades de autogestión y aprendizaje, de la mano a un conocimiento técnico que constantemente estoy ampliando en función de los cambios continuos de la tecnología, mismos que me han permitido proyectarse como líder en proyectos a nivel individual y grupal, buscando siempre la colaboración en equipo, y la disposición a asumir nuevos desafíos y lograr la consecución de los mismos.
 
 <!--
 **EdisonAvila19/EdisonAvila19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
